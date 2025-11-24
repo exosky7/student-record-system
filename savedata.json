@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"aadi",
+    "age":18,
+    "grade":69,
+    "email":"aadi@gmail.net",
+    "address":"your mom's house"
+  },
+  {
+    "id":2,
+    "name":"avocado",
+    "age":100,
+    "grade":99,
+    "email":"avocado@fruits.org",
+    "address":"the tree in your garden"
+  },
+  {
+    "id":3,
+    "name":"pineapple",
+    "age":"200",
+    "grade":"9999",
+    "email":"pineapple@hawaii.com",
+    "address":"the beach at hawaii"
+  }
+]
